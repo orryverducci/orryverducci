@@ -1,16 +1,16 @@
-### Hi there 👋
+👋🏻 Hi, I'm Orry
+==============
 
-<!--
-**orryverducci/orryverducci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Broadcast Engineer working in television based in [Cambridgeshire, UK](https://en.wikipedia.org/wiki/Cambridgeshire). I'm also a freelance web developer, and like to write code for fun ⚡️!
 
-Here are some ideas to get you started:
+### 🔬 My Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C# / .Net Core
+- HTML / CSS / Javascript
+- Audio and Video Encoding
+- DVB / MPEG Broadcast Standards
+
+### 🙋🏻‍♂️ My Corners of the Web
+
+- Website: [orryverducci.co.uk](https://www.orryverducci.co.uk)<br>
+- Twitter: [@orryverducci](https://twitter.com/orryverducci)
