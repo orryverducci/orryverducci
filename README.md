@@ -5,7 +5,7 @@ I'm a Broadcast Engineer working in television based in [Cambridgeshire, UK](htt
 
 ## 🔬 My Expertise
 
-- C# / .Net Core
+- C# / .NET
 - HTML / CSS / Javascript
 - Audio and Video Encoding
 - DVB / MPEG Broadcast Standards
