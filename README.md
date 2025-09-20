@@ -1,19 +1,22 @@
 👋🏻 Hi, I'm Orry
 ==============
 
-I'm a Broadcast Engineer working in television based in [Cambridgeshire, UK](https://en.wikipedia.org/wiki/Cambridgeshire). I'm also a freelance web developer, and like to write code for fun ⚡️!
+I'm a Broadcast Engineer working in television and radio based in [Cambridgeshire, UK](https://en.wikipedia.org/wiki/Cambridgeshire). I also like to write code for fun ⚡️!
 
 ## 🔬 My Expertise
 
 - C# / .NET
 - HTML / CSS / Javascript
-- Audio and Video Encoding
-- DVB / MPEG Broadcast Standards
+- Audio and Video Processing and Encoding
+- MPEG, DVB, SMPTE and NMOS Broadcast Standards
 
 ## 🙋🏻‍♂️ My Corners of the Web
 
-- 🌐 Website: [orryverducci.co.uk](https://www.orryverducci.co.uk)
-- 🐤 Twitter: [@orryverducci](https://twitter.com/orryverducci)
+- 🌐 Website: [orryverducci.co.uk](https://orryverducci.co.uk)
+- 📷 Instagram: [@orry.verducci](https://www.instagram.com/orry.verducci/)
+- 🦋 Bluesky: [@orryverducci.co.uk](https://bsky.app/profile/orryverducci.co.uk)
+- 🐤 X: [@orryverducci](https://x.com/orryverducci)
+- 💼 LinkedIn: [orryv](https://www.linkedin.com/in/orryv/)
 
 ## 📈 GitHub Stats
 
